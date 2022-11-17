@@ -9,9 +9,10 @@ const HomePage = () => {
         ipsa laudantium laboriosam iure doloremque cupiditate, nam assumenda,
         voluptatum aliquid, dignissimos unde!
       </p>
-      <img src='./img/2.jpg' width="50%" alt="Shadowhunters" />
+      <div className="text-center">
+        <img src="./img/2.jpg" width="50%" alt="Shadowhunters" />
+      </div>
     </div>
-   
   );
 };
 
