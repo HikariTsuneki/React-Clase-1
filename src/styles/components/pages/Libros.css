@@ -1,0 +1,24 @@
+.librosmios {
+    font-family: "Orbitron", sans-serif;
+   text-decoration: underline;
+   text-decoration-color: #384FFF;
+   text-decoration-style: wavy;
+ }
+ 
+ div.polaroid {
+   width: 100%;
+   background-color: white;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   margin-bottom: 25px; }
+ 
+ .polacontainer {
+   text-align: center;
+   padding: 10px 20px; }
+ 
+ .imageItems:hover {
+   -ms-transform: scale(1.2);
+   /* Internet Explorer 9 */
+   -webkit-transform: scale(1.2);
+   transform: scale(1.2);
+   transition: transform .5s; }
+ 
